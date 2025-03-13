@@ -21,7 +21,7 @@ int main()
 	int s=0;
 	cout<<"podaj liczbę naturalną, nie 0"<<endl;
 	cin>>x;
-	while(m<x)
+	while(m<=x)
 	{
 		if(x%m==0)
 		{
