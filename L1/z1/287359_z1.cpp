@@ -7,7 +7,7 @@ int main()
 	int x;
 	int l=1;
 	
-	cout<<"podaj liczbÄ™ naturalnÄ…"<<endl;
+	cout<<"podaj liczbę naturalną"<<endl;
 	cin>>x;
 	while(x!=1)
 	{
@@ -23,6 +23,7 @@ int main()
 			cout<<x<<", ";
 		}	
 	}	
-	cout<<"dĹ‚ugoĹ›Ä‡ trajektori dla"<<x<<"to:"<<l;
+	cout<<"długość trajektori dla"<<x<<"to:"<<l;
 	return 0;
 }
+
