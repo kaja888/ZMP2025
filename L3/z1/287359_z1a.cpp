@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {  
-    int tab[2];
+    long double tab[2];
     tab[0]=1;
     tab[1]=1;
     long double x;
