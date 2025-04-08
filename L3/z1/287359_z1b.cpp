@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int Fib(long double n, long double a=1, long double b=0) {
+long double Fib(long double n, long double a=1, long double b=0) {
     if (n == 0) {
         return a+b;
     }
